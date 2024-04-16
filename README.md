@@ -6,3 +6,5 @@ You can do this by opening terminal and write git clone comand.
 
 ## This will be a second line
 Petar Ristic : bla bla
+
+## This is third line that we change
